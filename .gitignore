@@ -2,6 +2,10 @@
 *
 
 # except...
+!.vimrc
+!.vim/
+!.vim/colors/
+!.vim/colors/phphaxor.vim
 !.gitignore
 !.zshrc
 !.gitconfig
