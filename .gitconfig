@@ -1,0 +1,7 @@
+[color]
+	ui = auto
+[user]
+	name = Joshua K. Farrar
+	email = joshua@sent1nel.me
+[alias]
+	tree = log --oneline --decorate --all --graph
