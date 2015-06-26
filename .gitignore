@@ -4,7 +4,12 @@
 # except...
 !.vimrc
 !.vim/
+!.vim/autoload/
+!.vim/autoload/pathogen.vim
+!.vim/bundle/
 !.vim/colors/
+!.vim/colors/molokai.vim
+!.vim/colors/mustang.vim
 !.vim/colors/phphaxor.vim
 !.gitignore
 !.zshrc
