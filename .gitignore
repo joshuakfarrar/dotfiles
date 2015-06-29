@@ -8,10 +8,6 @@
 !.vim/autoload/pathogen.vim
 !.vim/bundle/
 !.vim/bundle/nerdtree/
-!.vim/colors/
-!.vim/colors/molokai.vim
-!.vim/colors/mustang.vim
-!.vim/colors/phphaxor.vim
 !.gitignore
 !.zshrc
 !.gitconfig
