@@ -10,3 +10,6 @@
 [submodule ".vim/bundle/airline"]
 	path = .vim/bundle/airline
 	url = https://github.com/bling/vim-airline.git
+[submodule ".vim/bundle/colorschemes"]
+	path = .vim/bundle/colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
